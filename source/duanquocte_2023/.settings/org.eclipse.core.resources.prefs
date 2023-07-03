@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/duan/controller/admin/home.java=UTF-8
+encoding//src/main/java/com/duan/controller/web/home.java=UTF-8
+encoding//src/main/java/com/duan/interface_of_dao/implement_dao/abstract_dao.java=UTF-8
+encoding//src/main/java/com/duan/interface_of_service/bang_nguoidung_interface_service.java=UTF-8
+encoding//src/main/webapp/common/admin/header.jsp=UTF-8
+encoding//src/main/webapp/common/admin/header2.jsp=UTF-8
+encoding//src/main/webapp/decorators/admin.jsp=UTF-8
+encoding//src/main/webapp/views/admin/home.jsp=UTF-8
+encoding//src/main/webapp/views/intro.jsp=UTF-8
